@@ -90,13 +90,6 @@ chatbot-for-your-data/
 * File caching for faster reloading
 * Add file type support (e.g., DOCX)
 * Integrate speech input and TTS output (future extension)
-
----
-
-## 📜 License
-
-MIT License — feel free to use, modify, and share.
-
 ---
 
 ## 🙌 Acknowledgements
