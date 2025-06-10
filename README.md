@@ -38,7 +38,7 @@ chatbot-for-your-data/
 ├── uploads/
 │   └── (user PDFs)         # Uploaded PDF files
 ├── requirements.txt        # Python dependencies
-└── README.md               # You're reading it!
+└── README.md               # Brief Idea about the project
 ```
 
 ---
