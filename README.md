@@ -19,7 +19,7 @@ A simple, functional chatbot that allows users to interact with their own PDF do
 * **Flask** – Web server and frontend interface
 * **Langchain** – LLM framework for RAG pipelines
 * **OpenAI API** – For language generation
-* **FAISS / Chroma** – For vector-based document retrieval
+* **FAISS** – For vector-based document retrieval
 * **PyMuPDF / pdfplumber** – For PDF parsing
 
 ---
